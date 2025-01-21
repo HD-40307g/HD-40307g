@@ -39,8 +39,8 @@ Feel free to explore my repositories and fork anything you find useful!
 
 ## 📬 Let's Connect
 
-📫 **Email**: [softwaredeweloper@proton.me](softwaredeweloper@proton.me)   
-💼 **Portfolio**: [Portfolio Website](https://yourportfolio.com)  
+📫 **Email**: [erik.m-engineer@proton.me](erik.m-engineer@proton.me)   
+💼 **Portfolio**: [Portfolio Website](https://personalportfolio.online/)  
 
 ---
 
